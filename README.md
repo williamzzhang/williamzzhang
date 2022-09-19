@@ -1,5 +1,5 @@
-# Hey there, nice to meet you! 👋
-# I'm William Zhang.
+## Hey there, nice to meet you! 👋
+## I'm William Zhang.
 
 - Risk Advisory Intern @ Deloitte
 - 4th year CS + Business (BUCS) @ UBC
