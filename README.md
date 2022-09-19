@@ -7,5 +7,5 @@ Who am I?
 - Going on exchange to Copenhagen in Jan - May 2023
 ### Learn more?
 Check out williamzzhang.xyz
-### Contact Me 💬
+### Contact me 💬
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/william-zhang-/) or directly via [email](mailto:william.zhang609@gmail.com)!
