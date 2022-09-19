@@ -3,6 +3,7 @@
 Who am I?
 - Prev. Risk Advisory Intern @ Deloitte
 - 4th year CS + Business (BUCS) @ UBC
+- Painter extraordinaire :paintbrush:
 - Going on exchange to Copenhagen in Jan - May 2023
 ### Learn more?
 Check out williamzzhang.xyz
