@@ -6,6 +6,6 @@ Who am I?
 - Painter extraordinaire :paintbrush:
 - Going on exchange to Copenhagen in Jan - May 2023
 ### Learn more?
-Check out williamzzhang.xyz
+Check out [williamzhang.dev](https://www.williamzhang.dev/)
 ### Contact me 💬
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/william-zhang-/) or directly via [email](mailto:william.ming.zhang@gmail.com)!
